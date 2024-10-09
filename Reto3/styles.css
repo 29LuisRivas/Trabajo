@@ -1,0 +1,22 @@
+.body{
+    font-size: medium;
+    background-color: aquamarine;
+    animation: normal;
+    align-items: center;
+}
+
+
+.container{
+    display: flex;
+    background-image: none;
+    align-items: center;
+}
+
+.img{
+    border-color: black;
+    align-items: center;
+}
+
+.navegacion{
+    background-color: blue;
+}
